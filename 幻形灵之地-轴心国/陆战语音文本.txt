@@ -1,0 +1,242 @@
+幻形灵之地陆战语音
+路径：AsseQC/dialogs_wt_tanks/
+对应：轴心国陆战语音
+配音：
+    车长：Queen Chrysalis(QC)
+    炮手：Queen Chrysalis(QC)
+    火炮：Cozy Glow(CG)
+    装填手：Candance(CA)
+备注：
+    carriage马车 对应 tank,vehicle
+
+[voice_message_armor_not_pierce QC]
+It seems we missed.
+The shoot hasn't done any damage!
+The target hasn't taken any damage!
+
+[voice_message_art_charged CG]
+Magic artillery is ready!
+Magic artillery is on the position!
+
+[voice_message_art_command_oneself QC] 
+Target my location!
+For Changeling Kingdom!
+
+[voice_message_art_command QC]
+We need magic artillery support!
+Requiring for magic artillery fire!
+
+[voice_message_art_reloading CG]
+The magic is not ready!
+We are not ready yet!
+Not yet!
+
+[voice_message_art_shoot CG]
+Got that, comfirming fire!
+Got that, magic, fire!
+Got that! Changelings, fire!
+
+[voice_message_art_shooting_warning QC]
+The enemy is preparing for magic artillery brush!
+The enemy is preparing to brush our square!
+Let's go, our site is under magic artillery brush!
+
+[voice_message_charged QC]
+Ready fire!
+The magic is reloaded!
+Ready!
+
+[voice_message_charger_contused QC]
+The loader has been knocked out!
+The loader lost consciousness!
+The loader has been contused!
+
+[voice_message_charger_wounded QC]
+The loader has been wounded!
+
+[voice_message_commander_contused SB]
+The commander has been knocked out!
+The commander lost consciousness!
+The commander has been contused!
+
+[voice_message_commander_wounded QC]
+I'm wounded!
+Ouch, it hurts!
+
+[voice_message_direct_hit QC]
+Yes, a hit!
+It's certain right!
+On target!
+
+[voice_message_drive_slowly QC]
+Drive slow!
+
+[voice_message_driver_contused QC]
+The driver has been knocked out!
+The driver lost consciousness!
+The driver has been contused!
+
+[voice_message_driver_healed QC]
+The driver has been back in action!
+
+[voice_message_driver_wounded QC]
+The driver has been wounded!
+
+[voice_message_engine_damaged QC]
+The engine has been damaged!
+
+[voice_message_engine_destroyed QC]
+The engine has been destroyed!
+We can't move any more, the engine has been destroyed!
+
+[voice_message_fire_extinguished QC]
+The fire has been put out!
+The fire has been extinguished!
+
+[voice_message_fire_in_tank QC]
+We are on fire!
+Fire in the fighting compartment!
+Fire in the engine compartment!
+
+[voice_message_fuel_tank_damaged QC]
+The fuel tank has been holed!
+
+[voice_message_gunlayer_contused QC]
+The gunner has been knocked out!
+The gunner lost consciousness!
+The gunner has been contused!
+
+[voice_message_gunlayer_healed QC]
+The gunner has been back in action!
+
+[voice_message_gunlayer_wounded QC]
+The gunner has been wounded!
+
+[voice_message_horizontal_aiming_drive_damaged QC]
+Machine direction has been damaged!
+
+[voice_message_leave_vehicle QC]
+Leave the carriage!
+
+[voice_message_left_track_knocked_down QC]
+Left track has been damaged, we can't move!
+
+[voice_message_load_AP QC]
+Load armor piercing magic!
+Load A P magic!
+
+[voice_message_load_APCR QC]
+Load Armor Piercing Composit Rigid!
+Load A P C R magic!
+
+[voice_message_load_APDS_FS QC]
+Load Armor Piercing Discarding Sabot Fin Stabilized!
+Load Sabot!
+Load A P D S F S magic!
+
+[voice_message_load_APDS QC]
+Load Armor Piercing Discarding Sabot!
+Load Sabot!
+Load A P D S magic!
+
+[voice_message_load_CANISTER QC]
+Load Canister magic!
+
+[voice_message_load_Frag QC]
+Load Fragmentation magic!
+
+[voice_message_load_HE_FS QC]
+Load High Explosive Fin Stabilized magic!
+Load H E F S magic!
+
+[voice_message_load_HE QC]
+Load High Explosive magic!
+Load H E magic!
+
+[voice_message_load_HEAT_FS QC]
+Load High Explosive Anti-carriage Fin Stabilized!
+Load H E A C F S magic!
+
+[voice_message_load_HEAT QC]
+Load High Explosive Anti-carriage!
+Load H E A C magic!
+
+[voice_message_load_HESH QC]
+Load High Explosive Squash Head!
+Load H E S H magic!
+
+[voice_message_load_MISSILE QC]
+Load missile magic!
+Load missile magic.
+
+[voice_message_load_S QC]
+Load smoke magic!
+Load smoke magic.
+
+[voice_message_load QC]
+Load magic!
+Load up!
+
+[voice_message_machine_gunner_contused QC]
+The machine gunner has been knocked out!
+The machine gunner lost consciousness!
+The machine gunner has been contused!
+
+[voice_message_machine_gunner_wounded QC]
+The machine gunner has been wounded!
+
+[voice_message_player_tank_hit QC]
+Our carriage has been hit!
+Our carriage has been damaged!
+They holed our carriage!
+Their magic damaged our carriage!
+
+[voice_message_radiator_damaged QC]
+The radiator has been damaged!
+
+[voice_message_reloading QC]
+Loading!
+Load magic!
+Loading magic!
+
+[voice_message_right_track_knocked_down QC]
+Right track has been damaged, we can't move!
+
+[voice_message_short_stop QC]
+Stop the carriage!
+Stop!
+Stop the carriage! Stop!
+Stop now!
+
+[voice_message_shot_back QC]
+Damage on the back!
+
+[voice_message_shot_front QC]
+Damage on the front!
+
+[voice_message_shot_left QC]
+Damage on the left!
+
+[voice_message_shot_right QC]
+Damage on the right!
+
+[voice_message_target_destroyed QC]
+Wow! Isn't this exciting?
+The enemy's carriage has been destroyed!
+The enemy has been destroyed!
+Got it!
+The target has been destroyed!
+
+[voice_message_target_lock QC]
+Got that , I see the target!
+Lock the target!
+The target has been spotted!
+
+[voice_message_vertical_aiming_drive_damaged QC]
+Elevating mechanism damaged!
+
+[voice_message_weapon_damaged QC]
+The magic weapon has been damaged!
+
+[voice_message_weapon_destroyed QC]
+The magic weapon has been destroyed! 

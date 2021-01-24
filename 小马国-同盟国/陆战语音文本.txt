@@ -1,0 +1,242 @@
+小马国陆战语音
+路径：Assets/dialogs_wt_tanks/
+对应：同盟国陆战语音
+配音：
+    车长：Twilight Sparkle(TS)
+    炮手：Apple Jack(AJ)
+    火炮：Pinkie Pie(PP)
+    装填手：Derpy Hooves(DH)
+备注：
+    carriage马车 对应 tank,vehicle
+
+[voice_message_armor_not_pierce TS]
+It seems we missed.
+The shoot hasn't done any damage!
+The target hasn't taken any damage!
+
+[voice_message_art_charged PP]
+Harmony artillery is ready!
+Harmony artillery is on the position!
+
+[voice_message_art_command_oneself TS] 
+Target my location!
+For Equestria!
+
+[voice_message_art_command TS]
+We need harmony artillery support!
+Requiring for harmony artillery fire!
+
+[voice_message_art_reloading PP]
+The magic is not ready!
+We are not ready yet!
+Not yet!
+
+[voice_message_art_shoot PP]
+Got that, comfirming fire!
+Got that, harmony, fire!
+Got that! ponies, fire!
+
+[voice_message_art_shooting_warning TS]
+The enemy is preparing for harmony artillery brush!
+The enemy is preparing to brush our square!
+Let's go, our site is under harmony artillery brush!
+
+[voice_message_charged DH]
+Ready fire!
+The magic is reloaded!
+Ready!
+
+[voice_message_charger_contused TS]
+The loader has been knocked out!
+The loader lost consciousness!
+The loader has been contused!
+
+[voice_message_charger_wounded TS]
+The loader has been wounded!
+
+[voice_message_commander_contused AJ]
+The commander has been knocked out!
+The commander lost consciousness!
+The commander has been contused!
+
+[voice_message_commander_wounded TS]
+I'm wounded!
+Ouch, it hurts!
+
+[voice_message_direct_hit TS]
+Yes, a hit!
+It's certain right!
+On target!
+
+[voice_message_drive_slowly TS]
+Drive slow!
+
+[voice_message_driver_contused TS]
+The driver has been knocked out!
+The driver lost consciousness!
+The driver has been contused!
+
+[voice_message_driver_healed TS]
+The driver has been back in action!
+
+[voice_message_driver_wounded TS]
+The driver has been wounded!
+
+[voice_message_engine_damaged TS]
+The engine has been damaged!
+
+[voice_message_engine_destroyed TS]
+The engine has been destroyed!
+We can't move any more, the engine has been destroyed!
+
+[voice_message_fire_extinguished TS]
+The fire has been put out!
+The fire has been extinguished!
+
+[voice_message_fire_in_tank TS]
+We are on fire!
+Fire in the fighting compartment!
+Fire in the engine compartment!
+
+[voice_message_fuel_tank_damaged TS]
+The fuel tank has been holed!
+
+[voice_message_gunlayer_contused TS]
+The gunner has been knocked out!
+The gunner lost consciousness!
+The gunner has been contused!
+
+[voice_message_gunlayer_healed TS]
+The gunner has been back in action!
+
+[voice_message_gunlayer_wounded TS]
+The gunner has been wounded!
+
+[voice_message_horizontal_aiming_drive_damaged TS]
+Machine direction has been damaged!
+
+[voice_message_leave_vehicle TS]
+Leave the carriage!
+
+[voice_message_left_track_knocked_down TS]
+Left track has been damaged, we can't move!
+
+[voice_message_load_AP TS]
+Load armor piercing magic!
+Load A P magic!
+
+[voice_message_load_APCR TS]
+Load Armor Piercing Composit Rigid!
+Load A P C R magic!
+
+[voice_message_load_APDS_FS TS]
+Load Armor Piercing Discarding Sabot Fin Stabilized!
+Load Sabot!
+Load A P D S F S magic!
+
+[voice_message_load_APDS TS]
+Load Armor Piercing Discarding Sabot!
+Load Sabot!
+Load A P D S magic!
+
+[voice_message_load_CANISTER TS]
+Load Canister magic!
+
+[voice_message_load_Frag TS]
+Load Fragmentation magic!
+
+[voice_message_load_HE_FS TS]
+Load High Explosive Fin Stabilized magic!
+Load H E F S magic!
+
+[voice_message_load_HE TS]
+Load High Explosive magic!
+Load H E magic!
+
+[voice_message_load_HEAT_FS TS]
+Load High Explosive Anti-carriage Fin Stabilized!
+Load H E A C F S magic!
+
+[voice_message_load_HEAT TS]
+Load High Explosive Anti-carriage!
+Load H E A C magic!
+
+[voice_message_load_HESH TS]
+Load High Explosive Squash Head!
+Load H E S H magic!
+
+[voice_message_load_MISSILE TS]
+Load missile magic!
+Load missile magic.
+
+[voice_message_load_S TS]
+Load smoke magic!
+Load smoke magic.
+
+[voice_message_load TS]
+Load magic!
+Load up!
+
+[voice_message_machine_gunner_contused TS]
+The machine gunner has been knocked out!
+The machine gunner lost consciousness!
+The machine gunner has been contused!
+
+[voice_message_machine_gunner_wounded TS]
+The machine gunner has been wounded!
+
+[voice_message_player_tank_hit TS]
+Our carriage has been hit!
+Our carriage has been damaged!
+They holed our carriage!
+Their magic damaged our carriage!
+
+[voice_message_radiator_damaged TS]
+The radiator has been damaged!
+
+[voice_message_reloading TS]
+Loading!
+Load magic!
+Loading magic!
+
+[voice_message_right_track_knocked_down TS]
+Right track has been damaged, we can't move!
+
+[voice_message_short_stop TS]
+Stop the carriage!
+Stop!
+Stop the carriage! Stop!
+Stop now!
+
+[voice_message_shot_back TS]
+Damage on the back!
+
+[voice_message_shot_front TS]
+Damage on the front!
+
+[voice_message_shot_left TS]
+Damage on the left!
+
+[voice_message_shot_right TS]
+Damage on the right!
+
+[voice_message_target_destroyed TS]
+Wow! Isn't this exciting?
+The enemy's carriage has been destroyed!
+The enemy has been destroyed!
+Got it!
+The target has been destroyed!
+
+[voice_message_target_lock TS]
+Got that , I see the target!
+Lock the target!
+The target has been spotted!
+
+[voice_message_vertical_aiming_drive_damaged TS]
+Elevating mechanism damaged!
+
+[voice_message_weapon_damaged TS]
+The magic weapon has been damaged!
+
+[voice_message_weapon_destroyed TS]
+The magic weapon has been destroyed! 
