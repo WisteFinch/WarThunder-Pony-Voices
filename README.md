@@ -2,25 +2,37 @@
 
 使用小马语音传播友谊，Yay！
 
-## 支持的国家
+## 效果演示
 
-### 小马国-美|英|法|瑞
+v0.0.2: <https://www.bilibili.com/video/BV1kU4y147J4>
+
+## 进度
+
+### 成员组语音
+
+#### 小马国-美|英|法|瑞
+
+- 陆战(完成)
+- 空战(N/A)
+- 海战(N/A)
+
+#### 嘶大林格勒-中|苏
 
 - 陆战(完成)
 - 空战(N/A)
 - 海战(N/A)
 
-### 嘶大林格勒-中|苏
+#### 幻形灵之地-德|意|日
 
 - 陆战(完成)
 - 空战(N/A)
 - 海战(N/A)
 
-### 幻形灵之地-德|意|日
+### 电台语音
 
-- 陆战(完成)
-- 空战(N/A)
-- 海战(N/A)
+- 小马国(完成)
+- 嘶大林格勒(N/A)
+- 幻形灵之地(N/A)
 
 ## 用法
 
@@ -31,8 +43,14 @@
 - 所有语音均使用[15.ai](https://15.ai/about "15.ai")合成。
 - 本仓库使用[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html "CC-BY-SA-4.0")贡献协议
 
+## 贡献者名单
+
+WisteFinch [GitHub](https://github.com/WisteFinch) | [B站](https://space.bilibili.com/176961325)
+FloatingLight233 [GitHub](https://github.com/FloatingLight233) | [B站](https://space.bilibili.com/155398286)
+Red_Hammer [B站](https://space.bilibili.com/390651385)
+
 ## 相关链接
 
 - [战争雷霆FMOD仓库](https://github.com/GaijinEntertainment/fmod_studio_warthunder_for_modders "fmod_studio_warthunder_for_modders")
-- [FMOD制作器](https://www.fmod.com/ "FMOD制作器")
+- [FMOD STUDIO](https://www.fmod.com/ "FMOD STUDIO")
 - [15.ai:Natural TTS with minimal data](https://15.ai/about "15.ai:Natural TTS with minimal data")

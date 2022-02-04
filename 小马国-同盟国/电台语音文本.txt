@@ -1,0 +1,311 @@
+小马国空战及电台语音
+路径：Assests/dialogs_wt_wopl
+对应：同盟国空战及电台语音
+配音：
+	Princess Celestia(PC)
+	Princess Luna(PL)
+	Princess Cadance(PM)
+	Rainbow Dash(RD)
+
+文件夹：./
+[base_AD_mission_start PC]
+Ponies, your mission is to establish and hold air superiority over the target sector.
+
+[base_AfD_mission_start PC]
+Ponies, your mission is capture and hold the airfield.
+
+[base_BC_mission_start PC]
+Ponies, your mission is destroy the enemy's bombers and protect your own.
+
+[base_BfD_mission_start PC]
+Ponies, your mission is destroy the enemy's ground equipment and bases.
+
+[base_player_inZone_air PL]
+You now located in the air target zone.
+
+[base_player_inZone_ground PL]
+You now located in the ground target zone.
+
+[base_player_inZone_leave PL]
+You left the target zone.
+
+[pilot_base_destroyed_ally PL]
+v1&v2: Our base is destroyed, but we can still win the day.
+v3: Our base is destroyed, but our friendship will never fade away.
+
+[pilot_base_destroyed_enemy PL]
+1&2: We destroyed the enemy's base, now victory will come easily.
+3: We destroyed the enemy's base, now victory will sure be easily.
+
+[pilot_base_underattack PL]
+1: Our base is under attack!
+2: The enemy is attacking our base, we must reinforce the defense.
+3: Enemies are attacking our base, we must stop them.
+
+[pilot_capture_gm_ally PL]
+Ally forces have captured a zone.
+
+[pilot_capture_gm_enemy PL]
+Enemy forces have captured a zone.
+
+[pilot_capture_ground_ally PL]
+1_v1: We've captured the airfield, then we need hold it.
+1_v2: We've captured the airfield, now we need hold it.
+1_v3: We've captured the airfield, now we've got to hold it.
+2_v1&v2: We've captured the airfield, we must not let the enemy recapture it.
+2_v3: We've captured the airfield, we cannot let the enemy get it back.
+3_v1&v2: The airfield is ours, we must hold it.
+3_v3: The airfield is ours, we've got to hold it.
+
+[pilot_capture_ground_enemy PL]
+1_v1: The enemy has captured the airfield, we'll regain control of it immediately.
+1_v2: The enemy has captured the airfield, we need to regain control of it immediately.
+1_v3: The enemy has captured the airfield, we've got to regain control of it immediately.
+2: The enemy has captured the airfield, we can't let them keep it.
+3_v1: The enemy has captured the airfield, we need act,and fast.
+3_v2: The enemy has captured the airfield, we need to act and fast.
+3_v3: The enemy has captured the airfield, we have got to act fast.
+
+[pilot_capture_zone_ally PL]
+1&3: We've captured the zone.
+2: We have captured the zone.
+
+[pilot_capture_zone_enemy PL]
+The enemy has captured the zone.
+
+[pilot_mission_complete PC]
+1: We won, great work ponies.
+2_v1&v2: Victory is ours, let's go home.
+2_v3: Awesome! Victory is ours, let's go home.
+3: The enemy has been defeated. Let the party start!
+
+[pilot_mission_fail PC]
+1_v1&v2: We've lost, but next time, victory will be ours.
+1_v3: We've lost, but our friendship will never be lost.
+2_v1: We suffered a defeat, and back to base.
+2_v2&v3: We suffered a defeat, everypony back to base.
+3_v1: This time the enemy is proving stronger, we withdraw.
+3_v2&v3: Dratting! We almost won.
+
+[pilot_mission_start_add PC]
+1_v1&v3: We'll show the enemy the magic of friendship.
+1_v2: We will show the enemy the power of friendship.
+2_v1&v2: We need victory here, ponies.
+2_v3: we really need victory here, ponies.
+3_v1&v2: Everypony is closure to our victory.
+3_v3: It is time to be awesome!
+
+[pilot_point_underattack PC]
+1: Our friends is under attack, we must protect them.
+2_v1&v2: The enemy is attacking our friends, we need to boost our defences.
+2_v3: The enemy is attacking our friends, we need to reinforce our magic power.
+3: Enemy are attacking our position, we need to cover our friends.
+
+[pilot_reinforcements_air_ally PC]
+we received area reinforcements.
+
+[pilot_reinforcements_air_enemy PC]
+The enemy has received area reinforcements.
+
+[pilot_tickets_lead_continue_ally PM]
+1_v1&v2: Keep it up and victory will be ours.
+1_v3: Just keep solidarity up, and victory will be ours.
+2_v1&v2: A little more effort, and victory will be ours.
+2_v3: Just a little more effort, and victory will surely be ours.	
+3: Let's keep the pressure on, victory is close.
+
+[pilot_tickets_lead_continue_enemy PM]
+1: We must put more pressure on the enemy, they're winning.
+2: If we don't do something fast, the enemy will win.
+3_v1&v2: The enemy is winning, we must carry magic attack.
+3_v3: The enemy is winning, we've got to carry magic attack.
+
+[pilot_tickets_lead_start_ally PM]
+1: We're winning.
+2_v1&v3: Our victory is near.
+2_v2: The victory is near.
+3: We're ahead of the enemy.
+
+[pilot_tickets_lead_start_enemy PM]
+1: The enemy is winning.
+2: The enemy is getting close to victory.
+3_v1&v2: We are losing.
+3_v3: We're losing!
+
+[pilot_tickets_lead_zone_ally PM]
+1_v1&v2: We have captured most of the strategic zones.
+1_v3: Most of the strategic zones are captured.
+2: Another zone captured, we have advantage.
+3_v1: Most of the zones are under control.
+3_v2: We're controlling most of the zones.
+3_v3: we have most of the zones.
+
+[pilot_tickets_lead_zone_enemy PM]
+1_v1: 1_v2: The enemy has captured most of the strategic zones.
+1_v2: The enemy controls most of the strategic zones.
+1_v3: The enemy has most of the strategic zones.
+2_v1&v3: We no longer have advantage.
+2_v2: We don't have advantage anymore.
+3_v1: Most of the zones are under enemy's control.
+3_v2: Most of the zones are taken by the enemy.
+3_v3: The enemy is controlling most of the zones.
+
+文件夹：fx
+[mission_complete_fx]
+此文件为音效
+
+文件夹：mission_complete/voice
+配音：Princess Cadance
+[mission_complete_victory]
+1: Hurray!
+2: Victory!
+3: We won!
+4: Good job, ponies.
+5: Great work.
+6: We're best friends forever!
+7: We really showed them.
+8: Nice work.
+9: A fine victory.
+10: Bravo, Ponies!
+11: Congratulations!
+12: Great!
+13: Well done!
+14: Keep it up!
+15: Nice we done!
+16: A perfect battle!
+17: Awesome!
+18: What a victory!
+19: Beautiful!
+20. .They can never defeat the magic of friendship.
+
+文件夹：voice_messages_voice
+配音：Rainbow Dash
+[voice_message_attack_A]
+Attack the A point!
+
+[voice_message_attack_B]
+Attack the B point!
+
+[voice_message_attack_C]
+Attack the C point!
+
+[voice_message_attack_D]
+Attack the D point!
+
+[voice_message_attack_enemy_base]
+0: Attack enemy base!
+1: Attack hostile base!
+2: Destroy enemy base!
+3: Destroy hostile base!
+
+[voice_message_attack_enemy_troops]
+0: Attack enemy troops!
+1: Attack hostile troops!
+2: Destroy enemy troops!
+3: Destroy hostile troops!
+
+
+[voice_message_attack_target]
+0: Attack the enemy!
+1: Destroy the target!
+2: Take him down!
+3: Somepony attack him!
+
+[voice_message_attacking_target]
+0: Attacking!
+1: Launching an attack!
+2: Engaging the enemy!
+3: Convincing an attack!
+
+
+[voice_message_attention_to_point]
+0&1: Attention to the map!
+2: Attention to the designated grid square.
+3: Attention to the designated grid zone.
+
+[voice_message_check_your_six]
+0&2: Check your six!
+1: Behind you!
+3: Look back!
+
+[voice _message_cover_base]
+0: Cover the base!
+1: Defend our base!
+2: Provide air cover for our base!
+3: Defend the base!
+
+[voice_message_cover_me]
+0: Cover me, friends!
+1: Need backup!
+2: Need cover!
+3. Somepony cover me!
+
+[voice_message_defend_A]
+0-3: Defend the A point!
+
+[voice_message_defend_B]
+0-3: Defend the B point!
+
+[voice_message_defend_C]
+0-3: Defend the C point!
+
+[voice_message_defend_D]
+0-3: Defend the D point!
+
+[voice_message_follow_me]
+0: Follow me.
+1: Guide on me.
+2: Move after me.
+3: On me.
+
+[voice_message_landing]
+0&1: Leading for landing.
+2&3: Getting down.
+
+[voice_message_no]
+0: Negative.
+1: No.
+2_v1: Never.
+2_v2&v3: Pass.
+3: I refuse.
+
+
+[voice_message_reloading]
+0-3: Reloading magic!
+
+[voice_message_repairing]
+0-3: Repairing!
+
+[voice_message_return_to_base]
+0&1: Returning to the base.
+2: Returning to the airfield.
+3: Heading to the base.
+
+[voice_message_sorry]
+0: Sorry.
+1: I'm sorry.
+2: Excuse me.
+3: I beg your pardon.
+
+[voice_message_thank_you]
+0_v1&v2: Thank you.
+0_v3: Thank you my friend.
+1: Thanks.
+2: Thank you very much.
+3: Gramercy.
+
+[voice_message_well_done]
+0: Well done.
+1_v1&v2: Awesome!
+1_v3: It's so awesome!
+2: Bravo!
+3: Excellent!
+
+[voice_message_yes]
+0: Affirmative.
+1_v1&v2: Yes.
+1_v3: Yep.
+2: Roger that.
+3: I agree.
+
+
