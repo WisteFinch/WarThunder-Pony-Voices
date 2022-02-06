@@ -6,6 +6,7 @@
 
 - v0.0.2: <https://www.bilibili.com/video/BV1kU4y147J4>
 - v0.0.3: <https://www.bilibili.com/video/BV1q34y1y7Qr>
+- v0.0.4: <https://www.bilibili.com/video/BV1n5411f7RR>
 
 ## 下载地址
 - [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
@@ -22,7 +23,7 @@
 
 - 陆战(完成)
 - 空战(N/A)
-- 海战(N/A)
+- 海战(完成)
 
 #### 嘶大林格勒-中|苏
 
