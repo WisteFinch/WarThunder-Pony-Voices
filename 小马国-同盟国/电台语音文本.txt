@@ -1,6 +1,6 @@
-小马国空战及电台语音
+小马国电台语音
 路径：Assests/dialogs_wt_wopl
-对应：同盟国空战及电台语音
+对应：同盟国电台语音
 配音：
 	Princess Celestia(PC)
 	Princess Luna(PL)

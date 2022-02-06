@@ -1,0 +1,123 @@
+小马国海战语音
+路径：Assests/dialogs_wt_ships
+对应：同盟国海战语音
+配音：
+Twilight Sparkle(TS)
+	Fluttershy(FS)
+	Rarity(RR)
+Pinkie Pie(PP)
+Apple Jack(AJ)
+
+[voice_message_ai_gunners_air_targets TS]
+Gunners are searching for airborne targets.
+
+[voice_message_ai_gunners_all_targets TS]
+Gunners are searching for airborne and surface targets.
+
+[voice_message_ai_gunners_disabled TS]
+All gunners hold your fire!
+
+[voice_message_ai_gunners_ground_targets TS]
+Gunners are searching for surface targets.
+
+[voice_message_ai_target_cancel TS]
+1: Target cancelled.
+2. Target Tracking abandoned.
+
+[voice_message_ai_target_locked TS]
+1: Target acquired.
+2: Target confirmed.
+
+[voice_message_air_alert TS]
+1-3: Threaten in the air!
+4-6: Aircraft!
+
+[voice_message_aircraft_destroyed RR]
+1-3: Aircraft downed.
+
+[voice_message_critical_amount_crew FS]
+1: Reporting critical casualties among the ponies.
+2: We've lost most of our ponies.
+
+[voice_message_dangerous_amount_crew FS]
+1: Our ponies are taking major casualties.
+2: We've lost more than half of our ponies.
+
+[voice_message_enemy_destroyed RR]
+1-3: Down!
+4-6: The enemy ship sunk!
+
+[voice_message_enemy_on_fire RR]
+1-3: Enemy ship on fire!
+4-6: The Enemy is burning.
+
+[voice_message_engine_destroyed AJ]
+1-3: Engine Destroyed!
+4-6: Engine Dead!
+
+[voice_message_fire_doused AJ]
+1-3: Fire doused.
+
+[voice_message_fire_on_board AJ]
+1-3: Fire on board!
+
+[voice_message_gunner_contused FS]
+1-3: Gunner lost consciousness!
+
+[voice_message_helmsman_contused FS]
+1-3: Helmsman unconscious!
+
+[voice_message_hull_breach AJ]
+1-3: Hull breach!
+4-6: Hull leaking!
+7-9: We're sinking!
+
+[voice_message_lost_propulsion AJ]
+1-3: We've lost propulsion!
+4-6: The engines are dead!
+
+[voice_message_mine_left PP]
+1-3: Mine to port!
+4-6: Mine on port side!
+
+[voice_message_mine_rear PP]
+1-3: Mine to Stern!
+4-6: Mine from behind!
+
+[voice_message_mine_right PP]
+1-3: Mine to starboard!
+4-6: Mine on starboard side!
+
+[voice_message_mine PP]
+1-3: Mine ahead!
+4-6: Mine dead ahead!
+
+[voice_message_repairing AJ]
+1-3: Repairing!
+4-6: We're fighting to stay afloat!
+7-9: Fixing damage!
+
+[voice_message_torpedo_hit PP]
+1: Torpedo impact.
+2: I see a torpedo impact on the enemy ship.
+3: The enemy ship has been torpedoed.
+
+[voice_message_torpedo_left PP]
+1-3: Torpedo to port!
+4-6: Torpedo on port side!
+
+[voice_message_torpedo_rear PP]
+1-3: Torpedo to Stern!
+4-6: Torpedo from behind!
+
+[voice_message_torpedo_right PP]
+1-3: Torpedo to starboard!
+4-6: Torpedo on starboard side!
+
+[voice_message_torpedo PP]
+1-3: Torpedo!
+4-6: Torpedo dead ahead!
+
+[voice_message_weapon_destroyed PP]
+1-3: Weapon out of action.
+
