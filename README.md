@@ -5,6 +5,13 @@
 ## 效果演示
 
 v0.0.2: <https://www.bilibili.com/video/BV1kU4y147J4>
+v0.0.3: <https://www.bilibili.com/video/BV1q34y1y7Qr>
+
+## 下载地址
+- [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
+- [OneDrive](https://1drv.ms/u/s!Agt6R1CtJPwBqlSIQYT531S4SZwI?e=JE9Yua)
+- [坚果云](https://www.jianguoyun.com/p/DbhuCSAQgpqfChj_hasE)
+- [百度云-提取码j4s7](https://pan.baidu.com/s/1MQzR1mUHk3gQmNoxbzpjqw?pwd=j4s7)
 
 ## 进度
 
@@ -45,9 +52,9 @@ v0.0.2: <https://www.bilibili.com/video/BV1kU4y147J4>
 
 ## 贡献者名单
 
-WisteFinch [GitHub](https://github.com/WisteFinch) | [B站](https://space.bilibili.com/176961325)
-FloatingLight233 [GitHub](https://github.com/FloatingLight233) | [B站](https://space.bilibili.com/155398286)
-Red_Hammer [B站](https://space.bilibili.com/390651385)
+- WisteFinch [GitHub](https://github.com/WisteFinch) | [B站](https://space.bilibili.com/176961325)
+- FloatingLight233 [GitHub](https://github.com/FloatingLight233) | [B站](https://space.bilibili.com/155398286)
+- Red_Hammer [B站](https://space.bilibili.com/390651385)
 
 ## 相关链接
 
