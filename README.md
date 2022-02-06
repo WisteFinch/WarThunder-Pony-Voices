@@ -4,8 +4,8 @@
 
 ## 效果演示
 
-v0.0.2: <https://www.bilibili.com/video/BV1kU4y147J4>
-v0.0.3: <https://www.bilibili.com/video/BV1q34y1y7Qr>
+- v0.0.2: <https://www.bilibili.com/video/BV1kU4y147J4>
+- v0.0.3: <https://www.bilibili.com/video/BV1q34y1y7Qr>
 
 ## 下载地址
 - [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
