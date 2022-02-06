@@ -11,6 +11,7 @@
 - [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
 - [OneDrive](https://1drv.ms/u/s!Agt6R1CtJPwBqlSIQYT531S4SZwI?e=JE9Yua)
 - [坚果云](https://www.jianguoyun.com/p/DbhuCSAQgpqfChj_hasE)
+- [蓝奏云-密码2fwl](https://wwb.lanzouw.com/b030pbxyh)
 - [百度云-提取码j4s7](https://pan.baidu.com/s/1MQzR1mUHk3gQmNoxbzpjqw?pwd=j4s7)
 
 ## 进度
