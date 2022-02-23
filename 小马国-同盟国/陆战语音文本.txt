@@ -221,14 +221,14 @@ Damage on the left!
 Damage on the right!
 
 [voice_message_target_destroyed TS]
-Wow! Isn't this exciting?
+Wow! Nice shoot!
 The enemy's carriage has been destroyed!
 The enemy has been destroyed!
 Got it!
 The target has been destroyed!
 
 [voice_message_target_lock TS]
-Got that , I see the target!
+Got that, I see the target!
 Lock the target!
 The target has been spotted!
 

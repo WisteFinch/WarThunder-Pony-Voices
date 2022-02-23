@@ -1,0 +1,183 @@
+小马国空军语音
+路径：Assests/radio_chat
+对应：同盟国空军语音
+配音：
+	Rainbow Dash(r)
+	Spitfire(s)
+
+[eng_aircraft_damaged]
+1: I have been hit!
+2: I get prowl one there!
+3: They're hitting me!
+4: I can't shake him!
+5: Cover me!I'm taking damage!
+6: Awww...(无能狂怒)Get it off me！
+
+[eng_aircraft_destroyed]
+1:They kill me!
+2:Mayday!Mayday!I'm going down!
+3:I'll dead.
+4:She is been hit!
+5:They kill one of ours!
+6:They got her.
+7:She's going down!
+
+[eng_attack_position]
+1:Get him.
+2:Open fire.
+3:Hold the tracker.
+4:What are you waiting for?
+5:Come on,open fire!(不耐烦)
+
+[eng_bailout]
+1:Bailout.
+2:Bailed out!
+3:I'm bailing out!
+4:I've jumped!
+5:Jump!Jump!
+
+[eng_bomb_failure]
+1:Al——most!
+2:Almost get it!
+3:I miss.
+4:Let's do another pass.
+
+[eng_bomb_success]
+1:Good hit!
+2:On them!
+3:Direct hit!
+5:Great job, target destroyed!
+
+[eng_damaged_aa]
+1:Attention, flak!
+2:Oh! Flak!
+3:I got flak damage here!
+4:Ponies, we got some flak guns here!
+
+[eng_damaged_engine]
+1:I'm losing magic power! Mayday! Mayday!
+2:My magic engine is dropping off!
+3:My magic engine has been hit!
+4:My engine is down fall, I'm stalling!
+5:My engine is running off.Mayday! Mayday!
+
+[eng_damaged_oil]
+1:Check your oil pressure!
+2:You're losing oil!
+3:You get a hole in your oil tank!
+
+[eng_damaged_pilot]
+1:Oh! I'm bleeding!
+2:Ough! My hoof!
+3:Oh! Celestia! My wing!
+4:Ouch!
+5:Ouch!I'm hit!
+
+[eng_damaged_water]
+1:Hey! You are leaking coolant!
+2:Hey! You are leaking magic coolant!
+3:Watch out! You are running out of magic coolant!
+4:Your magic coolant is leaking!
+
+[eng_enemy_detected]
+1:Enemy sighted.
+2:Enemy straight ahead!
+3:Find them!
+4:See them!
+5:Locate!
+6:Here they are!
+
+[eng_left_wing]
+1:Your left wing!
+2:You get a hole in your left wing!
+3:Your left wing has been hit!
+
+[eng_near_waypoint]
+1:Approaching target!
+2:Almost there!
+3:There is the target, ponies!
+4:There is the target!
+5:We are on target!
+6:Attention, approaching target!
+7:We are getting close!
+
+[eng_on_fire]
+1:I'm on fire!
+2:I've been hit, I'm on fire!
+3:On no, I have flames in the cabin!
+4:I'm on fire, bailing out!
+5:Oh, she's burning!
+
+[eng_player_friendly_fire]
+1:You are shooting at friendly pony!
+2:Cease fire!
+3:Check your aim!
+4:She's a friendly pony!
+5:Open your eyes!
+
+[eng_player_killed_ally]
+1:What? That's one of ours!
+2:Did you just shoot down friendly pony?
+3:Are you crazy? What are you doing!
+4:You just shot down a friendly pony!
+
+[eng_player_killed_enemy]
+1:Gratulations!
+2:Good shot!
+3:What a story about!
+4:Awesome! I confirm that!
+5:Got one!
+6:One more now.
+
+[eng_right_wing]
+1:Your right wing!
+2:You got a hole in your right wing!
+3:My right wing has been hit!
+
+[eng_searchlite]
+1:Oh celestia I can't see anything!
+2:Damn! Searchlite!
+3:Break! Break! You are in searchlite!
+
+[eng_tank_damaged]
+1:You are losing fuel!
+2:Check oil, I think you are leaking
+3:You got a hole in your tank!
+4:You are leaking something!
+
+[eng_trick]
+1:Awesome!
+2:You will die!
+3:Oh they will suffer it!
+
+
+[/common]
+
+[eng_chat]
+1_s:Did somepony see anything?
+1_r:Make it all clear, over.
+2_s:Status, Number 1.啊吧啊吧
+2_r:Repeat, please.
+2_s:Status, Number 1.
+2_r:I will proceeding the target, over.
+3_s:Number 3, anything?
+3_r:No, there is nothing.
+3_s:Roger that.
+4_s:Number 1, what do you need, over.
+4_r:I will control and let you loud and clear, over.
+5_s:Ponies! What's your status?
+5_r:We are on course, on time and on target, everything is fine. How are you?
+6_r:Signal check!
+6_s:Loud and clear!
+7_r:Signal check!(啊吧啊吧)
+7_s:You're breaking out, say it again.
+7_r:Signal check!(啊吧啊吧)
+7_s:Reception failed, over!
+8_s:Keep your eyes on them.
+8_s:We can't find anything in this sector.
+8_s:Do you copy? Over.
+9_s:Number 3, what did you see?
+9_r:Can't see anything, sir.
+9_r:The airspace is clear.
+10_s:Number 1, how's the weather there?
+10_r:Seems to be holding of control, over.
