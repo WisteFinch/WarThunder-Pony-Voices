@@ -8,6 +8,7 @@ Use the pony voices to spread the magic of friendship, yay!
 - v0.0.2: <https://www.bilibili.com/video/BV1kU4y147J4>
 - v0.0.3: <https://www.bilibili.com/video/BV1q34y1y7Qr>
 - v0.0.4: <https://www.bilibili.com/video/BV1n5411f7RR>
+- v0.0.5-v0.0.6: <https://www.bilibili.com/video/BV1HS4y1k7tq>
 
 ## 下载地址 Download
 
