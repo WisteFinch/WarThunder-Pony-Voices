@@ -12,6 +12,7 @@ Use the pony voices to spread the magic of friendship, yay!
 
 ## 下载地址 Download
 
+- [WTLive](https://live.warthunder.com/post/1031058/en/)
 - [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
 - [OneDrive](https://1drv.ms/u/s!Agt6R1CtJPwBqlSIQYT531S4SZwI?e=JE9Yua)
 - [坚果云](https://www.jianguoyun.com/p/DbhuCSAQgpqfChj_hasE)
