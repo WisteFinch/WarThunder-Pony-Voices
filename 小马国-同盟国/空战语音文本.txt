@@ -17,7 +17,7 @@
 1:They kill me!
 2:Mayday!Mayday!I'm going down!
 3:I'll dead.
-4:She is been hit!
+4:She has been hit!
 5:They kill one of ours!
 6:They got her.
 7:She's going down!
