@@ -1,5 +1,6 @@
 # MOD使用
 
+战雷官方教程[https://wiki.warthunder.com/Sound_modifications](https://wiki.warthunder.com/Sound_modifications)
 以下的`国家`一词均指游戏中的国家
 
 ## 启用战雷音频mod支持

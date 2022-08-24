@@ -12,7 +12,7 @@ Use the pony voices to spread the magic of friendship, yay!
 
 ## 下载地址 Download
 
-- [WTLive](https://live.warthunder.com/post/1031058/en/)
+- [WTLive](https://live.warthunder.com/post/1048707/en/)
 - [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
 - [OneDrive](https://1drv.ms/u/s!Agt6R1CtJPwBqlSIQYT531S4SZwI?e=JE9Yua)
 - [坚果云](https://www.jianguoyun.com/p/DbhuCSAQgpqfChj_hasE)
@@ -21,7 +21,7 @@ Use the pony voices to spread the magic of friendship, yay!
 
 ## 进度 Schedule
 
-### 小马国 Equestria - 美|英|法|瑞
+### 小马国 Equestria
 
 - 陆战 (完成)
 - 空战 (完成)
@@ -34,13 +34,13 @@ Use the pony voices to spread the magic of friendship, yay!
 
 ### 已暂停 Paused
 
-#### ~~嘶大林格勒 Stalliongrad - 中|苏~~  
+#### ~~嘶大林格勒 Stalliongrad ~~  
 
 - ~~陆战(完成)~~
 - ~~空战(N/A)~~
 - ~~海战(N/A)~~
 
-#### ~~幻形灵之地 ChangelingLands - 德|意|日~~  
+#### ~~幻形灵之地 ChangelingLands ~~  
 
 - ~~陆战(完成)~~
 - ~~空战(N/A)~~
