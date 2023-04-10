@@ -1,12 +1,13 @@
-小马国海战语音
-路径：Assests/dialogs_wt_ships
-对应：同盟国海战语音
-配音：
-Twilight Sparkle(TS)
+Equestria Navy Voices
+Path：Assests/dialogs_wt_ships
+Character：
+	Twilight Sparkle(TS)
 	Fluttershy(FS)
 	Rarity(RR)
-Pinkie Pie(PP)
-Apple Jack(AJ)
+	Pinkie Pie(PP)
+	Apple Jack(AJ)
+
+---------- Folder：./ ----------
 
 [voice_message_ai_gunners_air_targets TS]
 Gunners are searching for airborne targets.

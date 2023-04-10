@@ -1,13 +1,13 @@
-小马国电台语音
-路径：Assests/dialogs_wt_wopl
-对应：同盟国电台语音
-配音：
-	Princess Celestia(PC)
-	Princess Luna(PL)
-	Princess Cadance(PM)
-	Rainbow Dash(RD)
+Equestria Radio Chat Voices
+Path：Assests/dialogs_wt_wopl
+Character：
+	Princess Celestia (PC)
+	Princess Luna (PL)
+	Princess Cadance (PM)
+	Rainbow Dash (RD)
 
-文件夹：./
+---------- Folder：./ ----------
+
 [base_AD_mission_start PC]
 Ponies, your mission is to establish and hold air superiority over the target sector.
 
@@ -150,13 +150,14 @@ The enemy has received area reinforcements.
 3_v2: Most of the zones are taken by the enemy.
 3_v3: The enemy is controlling most of the zones.
 
-文件夹：fx
-[mission_complete_fx]
-此文件为音效
+---------- Folder：fx/ ----------
 
-文件夹：mission_complete/voice
-配音：Princess Cadance
-[mission_complete_victory]
+[mission_complete_fx]
+just sound effects
+
+---------- Folder：mission_complete/voice/ ----------
+
+[mission_complete_victory PM]
 1: Hurray!
 2: Victory!
 3: We won!
@@ -178,91 +179,91 @@ The enemy has received area reinforcements.
 19: Beautiful!
 20. .They can never defeat the magic of friendship.
 
-文件夹：voice_messages_voice
-配音：Rainbow Dash
-[voice_message_attack_A]
+---------- Folder：voice_messages_voice/ ----------
+
+[voice_message_attack_A RD]
 Attack the A point!
 
-[voice_message_attack_B]
+[voice_message_attack_B RD]
 Attack the B point!
 
-[voice_message_attack_C]
+[voice_message_attack_C RD]
 Attack the C point!
 
-[voice_message_attack_D]
+[voice_message_attack_D RD]
 Attack the D point!
 
-[voice_message_attack_enemy_base]
+[voice_message_attack_enemy_base RD]
 0: Attack enemy base!
 1: Attack hostile base!
 2: Destroy enemy base!
 3: Destroy hostile base!
 
-[voice_message_attack_enemy_troops]
+[voice_message_attack_enemy_troops RD]
 0: Attack enemy troops!
 1: Attack hostile troops!
 2: Destroy enemy troops!
 3: Destroy hostile troops!
 
 
-[voice_message_attack_target]
+[voice_message_attack_target RD]
 0: Attack the enemy!
 1: Destroy the target!
 2: Take him down!
 3: Somepony attack him!
 
-[voice_message_attacking_target]
+[voice_message_attacking_target RD]
 0: Attacking!
 1: Launching an attack!
 2: Engaging the enemy!
 3: Convincing an attack!
 
 
-[voice_message_attention_to_point]
+[voice_message_attention_to_point RD]
 0&1: Attention to the map!
 2: Attention to the designated grid square.
 3: Attention to the designated grid zone.
 
-[voice_message_check_your_six]
+[voice_message_check_your_six RD]
 0&2: Check your six!
 1: Behind you!
 3: Look back!
 
-[voice _message_cover_base]
+[voice _message_cover_base RD]
 0: Cover the base!
 1: Defend our base!
 2: Provide air cover for our base!
 3: Defend the base!
 
-[voice_message_cover_me]
+[voice_message_cover_me RD]
 0: Cover me, friends!
 1: Need backup!
 2: Need cover!
 3. Somepony cover me!
 
-[voice_message_defend_A]
+[voice_message_defend_A RD]
 0-3: Defend the A point!
 
-[voice_message_defend_B]
+[voice_message_defend_B RD]
 0-3: Defend the B point!
 
-[voice_message_defend_C]
+[voice_message_defend_C RD]
 0-3: Defend the C point!
 
-[voice_message_defend_D]
+[voice_message_defend_D RD]
 0-3: Defend the D point!
 
-[voice_message_follow_me]
+[voice_message_follow_me RD]
 0: Follow me.
 1: Guide on me.
 2: Move after me.
 3: On me.
 
-[voice_message_landing]
+[voice_message_landing RD]
 0&1: Leading for landing.
 2&3: Getting down.
 
-[voice_message_no]
+[voice_message_no RD]
 0: Negative.
 1: No.
 2_v1: Never.
@@ -270,38 +271,38 @@ Attack the D point!
 3: I refuse.
 
 
-[voice_message_reloading]
+[voice_message_reloading RD]
 0-3: Reloading magic!
 
-[voice_message_repairing]
+[voice_message_repairing RD]
 0-3: Repairing!
 
-[voice_message_return_to_base]
+[voice_message_return_to_base RD]
 0&1: Returning to the base.
 2: Returning to the airfield.
 3: Heading to the base.
 
-[voice_message_sorry]
+[voice_message_sorry RD]
 0: Sorry.
 1: I'm sorry.
 2: Excuse me.
 3: I beg your pardon.
 
-[voice_message_thank_you]
+[voice_message_thank_you RD]
 0_v1&v2: Thank you.
 0_v3: Thank you my friend.
 1: Thanks.
 2: Thank you very much.
 3: Gramercy.
 
-[voice_message_well_done]
+[voice_message_well_done RD]
 0: Well done.
 1_v1&v2: Awesome!
 1_v3: It's so awesome!
 2: Bravo!
 3: Excellent!
 
-[voice_message_yes]
+[voice_message_yes RD]
 0: Affirmative.
 1_v1&v2: Yes.
 1_v3: Yep.

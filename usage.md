@@ -62,12 +62,23 @@
 其中`_crew_dialogs_ground_xx`后的`xx`代表国家代码,`_crew_dialogs_common_xx`后的`xx`代表游戏语言
 
 ```text
-zh 中国
-ru 苏联
-en 美英
-fr 法国
+cz 捷克
+de 德系
+eng 英/美系
+fr 法系
+he 以色列系
+hu 匈牙利
+it 意系
+jp 日系
+ko 韩国
+pl 波兰
+pt 葡萄牙
+ru 苏系
+sp 西班牙
+sr 塞尔维亚
 sv 瑞典
-it 意大利
-de 德国
-ja 日本
+tr 土耳其
+vi 越南
+zh 中系
+zhhx 中系
 ```

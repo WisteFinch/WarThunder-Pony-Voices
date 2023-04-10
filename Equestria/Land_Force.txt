@@ -1,13 +1,14 @@
-小马国陆战语音
-路径：Assets/dialogs_wt_tanks/
-对应：同盟国陆战语音
-配音：
-    车长：Twilight Sparkle(TS)
-    炮手：Apple Jack(AJ)
-    火炮：Pinkie Pie(PP)
-    装填手：Derpy Hooves(DH)
-备注：
-    carriage马车 对应 tank,vehicle
+Equestria Land Force Voices
+Path：Assets/dialogs_wt_tanks/
+Character：
+    Commander：Twilight Sparkle(TS)
+    Gunner：Apple Jack(AJ)
+    Artillery：Pinkie Pie(PP)
+    Loader：Derpy Hooves(DH)
+Note：
+    carriage -> tank, vehicle
+
+---------- Folder: ./ ----------
 
 [voice_message_armor_not_pierce TS]
 It seems we missed.
