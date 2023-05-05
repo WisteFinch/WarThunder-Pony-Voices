@@ -57,7 +57,7 @@ Use the pony voices to spread the magic of friendship, yay!
 
 The sound mod includes tank crews, navy crews, aircraft crews and radio messages.
 
-- Aircraft crews(Remaking), tank crews, navy crews support all countries.
+- Aircraft crews, tank crews, navy crews(Remaking) support all countries.
 - Radio messages support all languages.
 
 All voices are synthesized using [15.ai](https://15.ai/)
