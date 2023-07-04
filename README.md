@@ -4,15 +4,9 @@
 
 本语音包包含海陆空战语音及电台语音
 
-- 海（正在重新制作以适配新版本）、陆、空战语音支持所有国家
-
-- 电台语音支持所有语种
-
-所有音频皆使用 [15.ai](https://15.ai/) 合成
-
 ## 效果演示
 
-- Youtube: <https://www.youtube.com/watch?v=gPi2rtRvDkY> 感谢Роман Сырник的制作！
+- Youtube: <https://www.youtube.com/watch?v=gPi2rtRvDkY> 感谢Flying_Fox_117的制作！
 - v0.0.2: <https://www.bilibili.com/video/BV1kU4y147J4>
 - v0.0.3: <https://www.bilibili.com/video/BV1q34y1y7Qr>
 - v0.0.4: <https://www.bilibili.com/video/BV1n5411f7RR>
@@ -30,14 +24,11 @@
 ## 用法
 
 - 想了解如何使用MOD，请参阅[MOD使用](https://github.com/WisteFinch/WarThunder-Pony-Voices/blob/main/usage.md#MOD使用 "MOD使用")或参考[官方教程](https://wiki.warthunder.com/Sound_modifications)
-- To learn how to use the mod, please refer to the [manual](https://github.com/WisteFinch/WarThunder-Pony-Voices/blob/main/usage.md#MOD使用 "MOD使用")
 
 ## 注意
 
-- 所有语音均使用[15.ai](https://15.ai/about "15.ai")合成。
+- 语音使用 [15.ai](https://15.ai/about "15.ai") 和 SO-VITS-SVC 合成。
 - 本仓库使用[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html "CC-BY-SA-4.0")贡献协议。
-- All voices are synthesized using [15.ai](https://15.ai/about "15.ai").
-- The repository is distributed under [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html "CC-BY-SA-4.0").
 
 ## 贡献者名单
 
@@ -57,14 +48,9 @@ Use the pony voices to spread the magic of friendship, yay!
 
 The sound mod includes tank crews, navy crews, aircraft crews and radio messages.
 
-- Aircraft crews, tank crews, navy crews(Remaking) support all countries.
-- Radio messages support all languages.
-
-All voices are synthesized using [15.ai](https://15.ai/)
-
 ## Preview Video
 
-- Youtube: <https://www.youtube.com/watch?v=gPi2rtRvDkY> Thanks for Роман Сырник's excellent works!
+- Youtube: <https://www.youtube.com/watch?v=gPi2rtRvDkY> Thanks for Flying_Fox_117's excellent works!
 
 Note: The videos below are posted on BiliBili. It's a Chinese video platform and may not be accessible outside of China.
 
@@ -88,7 +74,7 @@ Note: The videos below are posted on BiliBili. It's a Chinese video platform and
 
 ## Notes
 
-- All voices are synthesized using [15.ai](https://15.ai/about "15.ai").
+- Voices are synthesized using [15.ai](https://15.ai/about "15.ai") and SO-VITS-SVC
 - The repository is distributed under [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html "CC-BY-SA-4.0").
 
 ## Contributors
