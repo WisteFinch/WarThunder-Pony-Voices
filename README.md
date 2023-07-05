@@ -9,9 +9,9 @@
 - v0.0.9 新陆战海战: <https://www.bilibili.com/video/BV1rP411e7eG>
 - Youtube v0.0.8: <https://www.youtube.com/watch?v=gPi2rtRvDkY> 感谢Flying_Fox_117的制作！
 - v0.0.5-v0.0.6 空战: <https://www.bilibili.com/video/BV1HS4y1k7tq>
-- v0.0.4 海战: <https://www.bilibili.com/video/BV1n5411f7RR>
+- v0.0.4 旧版海战: <https://www.bilibili.com/video/BV1n5411f7RR>
 - v0.0.3 电台: <https://www.bilibili.com/video/BV1q34y1y7Qr>
-- v0.0.2 陆战: <https://www.bilibili.com/video/BV1kU4y147J4>
+- v0.0.2 旧版陆战: <https://www.bilibili.com/video/BV1kU4y147J4>
 
 ## 下载地址
 
@@ -57,9 +57,9 @@ Note: Some videos below are posted on BiliBili. It's a Chinese video platform an
 - v0.0.9 New tank&navy crews: <https://www.bilibili.com/video/BV1rP411e7eG>
 - Youtube v0.0.8: <https://www.youtube.com/watch?v=gPi2rtRvDkY> Thanks for Flying_Fox_117's excellent works!
 - v0.0.5-v0.0.6 Aircraft crews: <https://www.bilibili.com/video/BV1HS4y1k7tq>
-- v0.0.4 Navy crews: <https://www.bilibili.com/video/BV1n5411f7RR>
+- v0.0.4 Old navy crews: <https://www.bilibili.com/video/BV1n5411f7RR>
 - v0.0.3 Radio chat: <https://www.bilibili.com/video/BV1q34y1y7Qr>
-- v0.0.2 Tank crews: <https://www.bilibili.com/video/BV1kU4y147J4>
+- v0.0.2 Old tank crews: <https://www.bilibili.com/video/BV1kU4y147J4>
 
 ## Download
 
