@@ -15,7 +15,7 @@
 
 ## 下载地址
 
-- [WTLive](https://live.warthunder.com/post/1048707/en/)
+- [WTLive](https://live.warthunder.com/post/1111511/en/)
 - [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
 - [OneDrive](https://1drv.ms/u/s!Agt6R1CtJPwBqlSIQYT531S4SZwI?e=JE9Yua)
 - [坚果云](https://www.jianguoyun.com/p/DbhuCSAQgpqfChj_hasE)
@@ -63,7 +63,7 @@ Note: Some videos below are posted on BiliBili. It's a Chinese video platform an
 
 ## Download
 
-- [WTLive](https://live.warthunder.com/post/1048707/en/)
+- [WTLive](https://live.warthunder.com/post/1111511/en/)
 - [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
 - [OneDrive](https://1drv.ms/u/s!Agt6R1CtJPwBqlSIQYT531S4SZwI?e=JE9Yua)
 - [Jianguoyun](https://www.jianguoyun.com/p/DbhuCSAQgpqfChj_hasE)
