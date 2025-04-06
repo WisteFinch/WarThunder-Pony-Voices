@@ -2,10 +2,11 @@
 
 使用小马语音传播友谊魔法，Yay！
 
-本语音包包含海陆空战语音及电台语音
+本语音包包含海陆空战语音、电台语音和语音告警
 
 ## 效果演示
 
+- v0.0.11 VWS: <https://www.bilibili.com/video/BV1LHRBYyEXZ>
 - v0.0.9 新陆战海战: <https://www.bilibili.com/video/BV1rP411e7eG>
 - Youtube v0.0.8: <https://www.youtube.com/watch?v=gPi2rtRvDkY> 感谢Flying_Fox_117的制作！
 - v0.0.5-v0.0.6 空战: <https://www.bilibili.com/video/BV1HS4y1k7tq>
@@ -15,7 +16,7 @@
 
 ## 下载地址
 
-- [WTLive](https://live.warthunder.com/post/1111511/en/)
+- [WTLive](https://live.warthunder.com/post/1135625/en/)
 - [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
 - [OneDrive](https://1drv.ms/u/s!Agt6R1CtJPwBqlSIQYT531S4SZwI?e=JE9Yua)
 - [坚果云](https://www.jianguoyun.com/p/DbhuCSAQgpqfChj_hasE)
@@ -47,13 +48,14 @@
 
 Use the pony voices to spread the magic of friendship, yay!
 
-The sound mod includes tank crews, navy crews, aircraft crews and radio messages.
+The sound mod includes tank crews, navy crews, aircraft crews, radio messages and VWS.
 
 ## Preview Video
 
 
 Note: Some videos below are posted on BiliBili. It's a Chinese video platform and may not be accessible outside of China.
 
+- v0.0.11 VWS: <https://www.bilibili.com/video/BV1LHRBYyEXZ>
 - v0.0.9 New tank&navy crews: <https://www.bilibili.com/video/BV1rP411e7eG>
 - Youtube v0.0.8: <https://www.youtube.com/watch?v=gPi2rtRvDkY> Thanks for Flying_Fox_117's excellent works!
 - v0.0.5-v0.0.6 Aircraft crews: <https://www.bilibili.com/video/BV1HS4y1k7tq>
@@ -63,7 +65,7 @@ Note: Some videos below are posted on BiliBili. It's a Chinese video platform an
 
 ## Download
 
-- [WTLive](https://live.warthunder.com/post/1111511/en/)
+- [WTLive](https://live.warthunder.com/post/1135625/en/)
 - [GitHub](https://github.com/WisteFinch/WarThunder-Pony-Voices/releases/)
 - [OneDrive](https://1drv.ms/u/s!Agt6R1CtJPwBqlSIQYT531S4SZwI?e=JE9Yua)
 - [Jianguoyun](https://www.jianguoyun.com/p/DbhuCSAQgpqfChj_hasE)
